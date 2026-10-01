@@ -1,0 +1,14 @@
+{
+    "1": {
+        "id_venta": "1",
+        "cedula_usuario": "1234567890",
+        "codigo_producto": "P001",
+        "fecha": "2026-10-01 02:06:54"
+    },
+    "2": {
+        "id_venta": "2",
+        "cedula_usuario": "1234567890",
+        "codigo_producto": "P001",
+        "fecha": "2026-10-01 02:07:27"
+    }
+}
